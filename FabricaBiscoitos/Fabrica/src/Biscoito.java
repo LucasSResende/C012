@@ -13,7 +13,7 @@ public class Biscoito {
     }
 
     public void usarMateriaPrima() {
-        double novaMateriaPrima = materiaPrima - 25;
+        double novaMateriaPrima = materiaPrima + 40;
         this.materiaPrima = novaMateriaPrima;
     }
 }
